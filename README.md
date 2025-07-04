@@ -64,4 +64,13 @@ The goal is to support HR decision-making through clean visuals and data-driven 
   ## 8. Conclusion
   This dashboard highlights the power of Power BI in transforming HR data into strategic insight. Palmoria can use this tool to ensure equitable compensation, strengthen compliance, and improve workforce planning.
 
+  ---
+
+  ### Palmoria HR Dashboard Preview
+  ![Dashboard Page 1](Palmoria Dashboard I.png)
+  ![Dashboard Page 2](Palmoria Dashboard II.png)
+
+  ## Download Project File
+  You can download the Power BI dashboard file here:
+  [Palmoria_HR_Dashboard.pbix](Palmoria Group HR Dashboard.pbix)
   
