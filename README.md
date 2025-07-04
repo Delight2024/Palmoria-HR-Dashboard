@@ -67,10 +67,10 @@ The goal is to support HR decision-making through clean visuals and data-driven 
   ---
 
   ### Palmoria HR Dashboard Preview
-  ![Dashboard Page 1](Palmoria Dashboard I.png)
-  ![Dashboard Page 2](Palmoria Dashboard II.png)
+  (Palmoria Dashboard I.png)
+  (Palmoria Dashboard II.png)
 
   ## Download Project File
   You can download the Power BI dashboard file here:
-  [Palmoria_HR_Dashboard.pbix](Palmoria Group HR Dashboard.pbix)
+  (Palmoria Group HR Dashboard.pbix)
   
